@@ -1,0 +1,9 @@
+1. Clear Mindset
+
+2. Start with GLOBAL Styling
+
+3. Avoid Fixed Sizes (Use min-height, max-width instead of using fixed height)
+
+4. Use Media Queries to add Complexity\
+
+5. Take advantage of MODERN CSS

@@ -1,0 +1,28 @@
+Using Percentages & Avoiding Heights
+
+    Percentages vs Fixed Heights/ Widths
+        All the Block level elements by default responsive. How?
+            Default width => 100% [100% of Parent Element]
+
+
+    Percentages on the Child:
+        .parent {
+
+        }
+        .child {
+            width: 50%;
+        }
+
+        Width is going to be 50% of the Parent. Not the entire page.
+
+
+    Why it's a good idea to avoid heights ?
+        By default browser is responsive. Only when we made few changes
+    the browser will run into IRRESPONSIVE.
+
+
+    
+
+
+
+    

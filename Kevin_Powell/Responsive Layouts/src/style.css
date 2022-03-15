@@ -1,0 +1,26 @@
+* {
+    background-color: antiquewhite;
+    color: brown;
+}
+
+body {
+    max-width: 100%;
+    margin: 0px 20px;
+}
+
+/*
+    '>' -> to select only the immediate childs of the parent
+*/
+.split > div {
+    border: 1px solid brown;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 20px;
+}
+
+@media (min-width: 40em) {
+    .split {
+        display: flex;
+        gap: 5em;
+    }
+}
